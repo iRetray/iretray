@@ -3,4 +3,4 @@
    <h3 align="center">¡Hola! Soy Julian Camilo</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Frontend</strong> apasionado por las <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> tecnologias web.<br /> Me especializo en aplicaciones desarrolladas con <strong><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"> React</strong> y  otras <strong>librerias de <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> JavaScript</strong></p>
+<p align="center" style="font-size:15;">Soy <strong>Desarrollador Frontend</strong> apasionado por las <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> tecnologias web.<br /> Me especializo en aplicaciones desarrolladas con <strong><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"> React</strong> y  otras <strong>librerias de <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> JavaScript</strong></p>
