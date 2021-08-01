@@ -3,8 +3,14 @@
    <h3 align="center">¡Hola! Soy Julian Camilo</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Frontend</strong> apasionado por las tecnologias web.<br /> Me especializo en aplicaciones desarrolladas con <strong>React</strong> y  otras <strong>liberias de JavaScript</strong></p>
+<p align="center">Soy <strong>Desarrollador Frontend</strong> apasionado por las tecnologias web.<br /> Me especializo en aplicaciones desarrolladas con <strong>⚛️React</strong> y  otras <strong>liberias de JavaScript</strong></p>
 
 # Julian Camilo
 
 > Passionate programmer and **React web developer**. I'm specialized in **web applications development** using multiple _tools, frameworks and libraries_ to create great applications.
+
+
+<i class="fab fa-github"></i>
+
+
+⚛️
