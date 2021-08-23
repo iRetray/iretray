@@ -26,7 +26,7 @@
     </a>
 </p>
 
-### Tecnologías que uso y conozco 🚀
+### Tecnologías que uso 🚀
 
 <a href='#' target='_blank'>
   <img width='25%' src='https://raw.githubusercontent.com/iRetray/iretray/master/react.png' alt='' />
