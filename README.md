@@ -29,5 +29,30 @@
 ### Tecnologías que uso y conozco 🚀
 
 <a href='#' target='_blank'>
-  <img width='10%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png' alt='React' />
+  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/react.png' alt='' />
 </a>
+<a href='#' target='_blank'>
+  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/redux.jpg' alt='' />
+</a>
+<a href='#' target='_blank'>
+  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/router.png' alt='' />
+</a>
+<a href='#' target='_blank'>
+  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/storybook.png' alt='' />
+</a>
+<a href='#' target='_blank'>
+  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/ts.png' alt='' />
+</a>
+<a href='#' target='_blank'>
+  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/next.png' alt='' />
+</a>
+<a href='#' target='_blank'>
+  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/native.png' alt='' />
+</a>
+<a href='#' target='_blank'>
+  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/jest.png' alt='' />
+</a>
+<a href='#' target='_blank'>
+  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/expo.png' alt='' />
+</a>
+
