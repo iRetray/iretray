@@ -25,3 +25,9 @@
     <img width='32%' src='https://raw.githubusercontent.com/iRetray/iretray/master/todo.png' alt='Toma notas facilmente' />
     </a>
 </p>
+
+### Tecnologías que uso y conozco 🚀
+
+<a href='#' target='_blank'>
+  <img width='10%' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png' alt='React' />
+</a>
