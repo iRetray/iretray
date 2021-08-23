@@ -29,30 +29,29 @@
 ### Tecnologías que uso y conozco 🚀
 
 <a href='#' target='_blank'>
-  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/react.png' alt='' />
+  <img width='25%' src='https://raw.githubusercontent.com/iRetray/iretray/master/react.png' alt='' />
 </a>
 <a href='#' target='_blank'>
-  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/redux.jpg' alt='' />
+  <img width='25%' src='https://raw.githubusercontent.com/iRetray/iretray/master/redux.jpg' alt='' />
 </a>
 <a href='#' target='_blank'>
-  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/router.png' alt='' />
+  <img width='35%' src='https://raw.githubusercontent.com/iRetray/iretray/master/router.png' alt='' />
 </a>
 <a href='#' target='_blank'>
-  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/storybook.png' alt='' />
+  <img width='40%' src='https://raw.githubusercontent.com/iRetray/iretray/master/storybook.png' alt='' />
 </a>
 <a href='#' target='_blank'>
   <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/ts.png' alt='' />
 </a>
 <a href='#' target='_blank'>
-  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/next.png' alt='' />
+  <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/next.png' alt='' />
 </a>
 <a href='#' target='_blank'>
-  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/native.png' alt='' />
+  <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/native.png' alt='' />
 </a>
 <a href='#' target='_blank'>
-  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/jest.png' alt='' />
+  <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/jest.png' alt='' />
 </a>
 <a href='#' target='_blank'>
-  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/expo.png' alt='' />
+  <img width='35%' src='https://raw.githubusercontent.com/iRetray/iretray/master/expo.png' alt='' />
 </a>
-
