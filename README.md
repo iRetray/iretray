@@ -38,7 +38,7 @@
   <img width='35%' src='https://raw.githubusercontent.com/iRetray/iretray/master/router.png' alt='' />
 </a>
 <a href='#' target='_blank'>
-  <img width='40%' src='https://raw.githubusercontent.com/iRetray/iretray/master/storybook.png' alt='' />
+  <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/storybook.png' alt='' />
 </a>
 <a href='#' target='_blank'>
   <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/ts.png' alt='' />
@@ -47,7 +47,7 @@
   <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/next.png' alt='' />
 </a>
 <a href='#' target='_blank'>
-  <img width='30%' src='https://github.com/iRetray/iretray/blob/master/node.png' alt='' />
+  <img width='25%' src='https://github.com/iRetray/iretray/blob/master/node.png' alt='' />
 </a>
 <a href='#' target='_blank'>
   <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/native.png' alt='' />
