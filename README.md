@@ -47,9 +47,6 @@
   <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/next.png' alt='' />
 </a>
 <a href='#' target='_blank'>
-  <img width='25%' src='https://github.com/iRetray/iretray/blob/master/node.png' alt='' />
-</a>
-<a href='#' target='_blank'>
   <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/native.png' alt='' />
 </a>
 <a href='#' target='_blank'>
