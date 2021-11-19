@@ -11,6 +11,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-0A1A2F?style=flat&logo=Sass&logoColor=#CC6699)
 ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
 ![Redux](https://img.shields.io/badge/-Redux-0A1A2F?style=flat&logo=Redux&logoColor=#764ABC)
+![Redux](https://img.shields.io/badge/-React%20Router-0A1A2F?style=flat&logo=React%20Router&logoColor=#764ABC)
 ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
 ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
