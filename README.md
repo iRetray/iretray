@@ -9,6 +9,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat-square&logo=JavaScript&logoColor=#F7E018)
 ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat-square&logo=HTML5&logoColor=#E34F26)
 ![SASS](https://img.shields.io/badge/-SASS-0A1A2F?style=flat-square&logo=Sass&logoColor=#CC6699)
+![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
+![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
 
 ### ¿Quieres conocer algunos de mis proyectos? 🗃
 
