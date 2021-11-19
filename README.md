@@ -15,6 +15,7 @@
 ![Storybook](https://img.shields.io/badge/-Storybook-0A1A2F?style=flat&logo=Storybook&logoColor=#764ABC)
 ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
 ![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=flat&logo=Jest&logoColor=#C21325)
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-0A1A2F?style=flat&logo=Testing%20Library&logoColor=#C21325)
 ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
