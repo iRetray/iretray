@@ -8,6 +8,7 @@
 ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat-square&logo=React&logoColor=00d8fd)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat-square&logo=JavaScript&logoColor=#F7E018)
 ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat-square&logo=HTML5&logoColor=#E34F26)
+![SASS](https://img.shields.io/badge/-SASS-0A1A2F?style=flat-square&logo=Sass&logoColor=#CC6699)
 
 ### ¿Quieres conocer algunos de mis proyectos? 🗃
 
