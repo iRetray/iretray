@@ -9,6 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=JavaScript&logoColor=#F7E018)
 ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=HTML5&logoColor=#E34F26)
 ![SASS](https://img.shields.io/badge/-SASS-0A1A2F?style=flat&logo=Sass&logoColor=#CC6699)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0A1A2F?style=flat&logo=Ant%20Design&logoColor=#C21325)
 ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
 ![Redux](https://img.shields.io/badge/-Redux-0A1A2F?style=flat&logo=Redux&logoColor=#764ABC)
 ![React Router](https://img.shields.io/badge/-React%20Router-0A1A2F?style=flat&logo=React%20Router&logoColor=#764ABC)
