@@ -30,7 +30,7 @@
 ### ¿Quieres conocer algunos de mis proyectos? 🗃
 
 <a href='https://github.com/iRetray/moviefind' target='_blank'>
-  <img width='33%' src='https://raw.githubusercontent.com/iRetray/iretray/master/moviefind.png' alt='MovieFind - Buscador de películas y series' />
+  <img width='32%' src='https://raw.githubusercontent.com/iRetray/iretray/master/moviefind.png' alt='MovieFind - Buscador de películas y series' />
 </a>
 <a href='https://github.com/iRetray/RetoSofkathon' target='_blank'>
   <img width='32%' src='https://raw.githubusercontent.com/iRetray/iretray/master/speakly.png' alt='Speakly - Asistente de trabajo' />
