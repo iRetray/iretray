@@ -45,33 +45,3 @@
     <img width='32%' src='https://raw.githubusercontent.com/iRetray/iretray/master/todo.png' alt='Toma notas facilmente' />
     </a>
 </p>
-
-### Tecnologías que uso 🚀
-
-<a href='#' target='_blank'>
-  <img width='25%' src='https://raw.githubusercontent.com/iRetray/iretray/master/react.png' alt='' />
-</a>
-<a href='#' target='_blank'>
-  <img width='25%' src='https://raw.githubusercontent.com/iRetray/iretray/master/redux.jpg' alt='' />
-</a>
-<a href='#' target='_blank'>
-  <img width='35%' src='https://raw.githubusercontent.com/iRetray/iretray/master/router.png' alt='' />
-</a>
-<a href='#' target='_blank'>
-  <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/storybook.png' alt='' />
-</a>
-<a href='#' target='_blank'>
-  <img width='10%' src='https://raw.githubusercontent.com/iRetray/iretray/master/ts.png' alt='' />
-</a>
-<a href='#' target='_blank'>
-  <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/next.png' alt='' />
-</a>
-<a href='#' target='_blank'>
-  <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/native.png' alt='' />
-</a>
-<a href='#' target='_blank'>
-  <img width='30%' src='https://raw.githubusercontent.com/iRetray/iretray/master/jest.png' alt='' />
-</a>
-<a href='#' target='_blank'>
-  <img width='35%' src='https://raw.githubusercontent.com/iRetray/iretray/master/expo.png' alt='' />
-</a>
