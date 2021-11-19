@@ -5,10 +5,10 @@
 
 <p align="center" style="font-size:15;"><strong>Desarrollador Frontend</strong> apasionado por las <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> tecnologias web.<br /> Me especializo en aplicaciones desarrolladas con <strong><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"> React</strong> y  otras <strong>librerias de <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> JavaScript</strong></p>
 
-![React](https://img.shields.io/badge/-React-0A1A2F?style=flat-square&logo=React&logoColor=00d8fd)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat-square&logo=JavaScript&logoColor=#F7E018)
-![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat-square&logo=HTML5&logoColor=#E34F26)
-![SASS](https://img.shields.io/badge/-SASS-0A1A2F?style=flat-square&logo=Sass&logoColor=#CC6699)
+![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=JavaScript&logoColor=#F7E018)
+![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=HTML5&logoColor=#E34F26)
+![SASS](https://img.shields.io/badge/-SASS-0A1A2F?style=flat&logo=Sass&logoColor=#CC6699)
 ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
 ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=FFF)
 ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
