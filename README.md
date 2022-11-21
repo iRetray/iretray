@@ -3,7 +3,8 @@
    <h2 align="center">¡Hola! Soy Julian Camilo 🧑‍💻 (<a href="https://github.com/iRetray" target="blank">iRetray</a>)</h2>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iretray&label=Profile%20views&color=0e75b6&style=flat" alt="iretray" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iretray" alt="iretray" /></a> </p>
+
 
 <p align="center" style="font-size:15;"><strong>Desarrollador Frontend</strong> apasionado por las <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"> tecnologias web.<br /> Me especializo en aplicaciones desarrolladas con <strong><img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg"> React</strong> y  otras <strong>librerias de <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> JavaScript</strong></p>
 
